@@ -1,3 +1,1 @@
-# Rocket Academy Coding Bootcamp
-
-## CSS Conversions
+# Rocket Academy Coding Bootcamp: CSS Conversions
